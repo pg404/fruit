@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="FruitActivityTheme" parent="AppTheme">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="LogoPageTheme" parent="AppTheme">
+        <item name="android:statusBarColor">#e68657</item>
+
+    </style>
+
+</resources>
